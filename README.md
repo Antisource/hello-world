@@ -1,2 +1,4 @@
 # hello-world
-My first program on Github
+
+Hello Earth!
+I am from Mars. I am waitiing to receive Elon Musk when he comes to Mars.
