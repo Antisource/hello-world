@@ -1,10 +1,4 @@
 # hello-world
-My first program on Github
-public class HelloWorld
-{
-public static void main(String args[])
-{
-System.out.println("Hello World");
-}
-}
-//class ends This is the printing code
+
+Hello Earth!
+I am from Mars. I am waitiing to receive Elon Musk when he comes to Mars
